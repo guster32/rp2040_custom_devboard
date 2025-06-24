@@ -1,0 +1,59 @@
+# KiCad 6+ (also works for 5.x)
+*.bak
+*.bck
+*.kicad_prl
+*.kicad_sch-bak
+*.kicad_pcb-bak
+*.tmp
+*.swp
+*.swo
+*~
+
+# autosave and recovery
+_autosave*
+*.restore
+
+# backup files
+*.zip
+*.tar.gz
+
+# generated netlists and BOMs
+*.net
+*.xml
+*.csv
+*.tsv
+*.pdf
+*.ps
+
+# Simulation and cache files
+*.cache
+*.log
+*.raw
+*.cir
+*.out
+*.schdocpreview
+
+# Intermediate files
+fp-info-cache
+*.dcm
+sym-lib-table-bak
+fp-lib-table-bak
+
+# Project-specific stuff
+*.kicad_prl
+__pycache__/
+
+# DSN / Specctra / Route files
+*.dsn
+*.ses
+*.rpt
+
+# KiCad 7 3D model cache
+*.3dshapes-backup
+*.kicad_3dshapes-bak
+
+# User-specific files
+*.user
+*.kicad_sch-bak
+*.kicad_pcb-bak
+
