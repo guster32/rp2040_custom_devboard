@@ -6,3 +6,4 @@ https://cdn.sparkfun.com/assets/5/d/3/1/f/hardware-design-with-rp2040.pdf
 
 https://datasheets.raspberrypi.com/rp2040/MinimalKiCAD.zip
 
+https://github.com/sethhillbrand/kicad_templates.git
